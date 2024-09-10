@@ -1,6 +1,9 @@
+
 # Book Management
 
 Aplikasi ini digunakan untuk mengelola data buku dan data pengarang.
+
+Interface Aplikasi (https://i.ibb.co.com/WG98r2n/logosss.png)
 
 ## Kebutuhan
 
