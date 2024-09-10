@@ -1,0 +1,49 @@
+.btn {
+    border-radius: 100px !important;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1) !important;
+    cursor: pointer !important;
+    transition: 0.3s !important;
+}
+
+* {
+    font-family: "Poppins", sans-serif !important;
+    font-size: 16px;
+}
+
+.bg-yellow {
+    background-color: #f1c40f !important;
+    color: #fff !important;
+}
+
+.bg-red {
+    background-color: #e74c3c !important;
+    color: #fff !important;
+}
+
+input,
+select {
+    border-radius: 8px !important; /* Sudut membulat */
+    border: 1px solid #ced4da !important; /* Border standar */
+    outline: none !important; /* Menghilangkan outline default */
+}
+
+/* CSS ketika input atau select aktif */
+input:focus,
+select:focus {
+    box-shadow: none; /* Menghilangkan efek cahaya biru */
+}
+
+/* CSS untuk input dan select ketika tidak aktif */
+input,
+select {
+    border-color: none !important; /* Border tidak aktif */
+    transition: border-color 0.2s ease; /* Transisi border color */
+}
+
+.table td,
+.table th {
+    padding: 5px 10px !important; /* Padding cell */
+}
+.rounded-25 {
+    border-radius: 25px !important;
+}
